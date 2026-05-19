@@ -30,89 +30,89 @@ Representative cases where VeMo matches the human label while baselines do not.
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001014-mdm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001014-mdm.gif" width="100%" alt="001014 · MDM"><br/>
 <b>001014 · MDM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001359-mdm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001359-mdm.gif" width="100%" alt="001359 · MDM"><br/>
 <b>001359 · MDM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001384-mdm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001384-mdm.gif" width="100%" alt="001384 · MDM"><br/>
 <b>001384 · MDM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000439-mdm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000439-mdm.gif" width="100%" alt="000439 · MDM"><br/>
 <b>000439 · MDM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001349-mdm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001349-mdm.gif" width="100%" alt="001349 · MDM"><br/>
 <b>001349 · MDM</b>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000825-mgpt.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000825-mgpt.gif" width="100%" alt="000825 · MotionGPT"><br/>
 <b>000825 · MotionGPT</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001008-mgpt.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001008-mgpt.gif" width="100%" alt="001008 · MotionGPT"><br/>
 <b>001008 · MotionGPT</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000374-mgpt.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000374-mgpt.gif" width="100%" alt="000374 · MotionGPT"><br/>
 <b>000374 · MotionGPT</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001250-mgpt.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001250-mgpt.gif" width="100%" alt="001250 · MotionGPT"><br/>
 <b>001250 · MotionGPT</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000307-mgpt.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000307-mgpt.gif" width="100%" alt="000307 · MotionGPT"><br/>
 <b>000307 · MotionGPT</b>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000704-motionlcm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000704-motionlcm.gif" width="100%" alt="000704 · MotionLCM"><br/>
 <b>000704 · MotionLCM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001038-motionlcm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001038-motionlcm.gif" width="100%" alt="001038 · MotionLCM"><br/>
 <b>001038 · MotionLCM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/001059-motionlcm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/001059-motionlcm.gif" width="100%" alt="001059 · MotionLCM"><br/>
 <b>001059 · MotionLCM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000576-motionlcm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000576-motionlcm.gif" width="100%" alt="000576 · MotionLCM"><br/>
 <b>000576 · MotionLCM</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000820-motionlcm.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000820-motionlcm.gif" width="100%" alt="000820 · MotionLCM"><br/>
 <b>000820 · MotionLCM</b>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000742-stablemofusion.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000742-stablemofusion.gif" width="100%" alt="000742 · StableMoFusion"><br/>
 <b>000742 · StableMoFusion</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000304-stablemofusion.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000304-stablemofusion.gif" width="100%" alt="000304 · StableMoFusion"><br/>
 <b>000304 · StableMoFusion</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000091-stablemofusion.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000091-stablemofusion.gif" width="100%" alt="000091 · StableMoFusion"><br/>
 <b>000091 · StableMoFusion</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000421-stablemofusion.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000421-stablemofusion.gif" width="100%" alt="000421 · StableMoFusion"><br/>
 <b>000421 · StableMoFusion</b>
 </td>
 <td align="center" valign="top" width="20%">
-<video src="assets/cases/000749-stablemofusion.mp4" width="100%" controls muted loop playsinline></video><br/>
+<img src="assets/cases/000749-stablemofusion.gif" width="100%" alt="000749 · StableMoFusion"><br/>
 <b>000749 · StableMoFusion</b>
 </td>
 </tr>
