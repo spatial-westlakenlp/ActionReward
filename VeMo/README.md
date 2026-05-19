@@ -1,26 +1,45 @@
-# VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models
-
 <div id="top" align="center">
-<p align="center">
-<img src="assets/framework.jpg" width="100%" alt="VeMo framework">
+
+<h2>VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models</h2>
+
+<p>
+<a href="https://openreview.net/pdf?id=Sf8ubkiEkW"><img src="https://img.shields.io/badge/Paper-OpenReview-red" alt="Paper"></a>
+<a href="https://icml.cc/virtual/2026/poster/63904"><img src="https://img.shields.io/badge/Poster-ICML%202026-green" alt="Poster"></a>
+<a href="https://github.com/spatial-westlakenlp/ActionReward"><img src="https://img.shields.io/badge/Code-GitHub-blue" alt="Code"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-yellow" alt="License"></a>
 </p>
+
+<p>
+Yuwen Ji<sup>1,2</sup> &nbsp;&nbsp;
+Donglin Wang<sup>2</sup> &nbsp;&nbsp;
+Yue Zhang<sup>2 *</sup> &nbsp;&nbsp;
+<!-- <br/> -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sup>1</sup>Zhejiang University&nbsp;&nbsp;
+<sup>2</sup>Westlake University<br/>
+</p>
+
 </div>
 
-> 📝 **Paper**: https://openreview.net/pdf?id=Sf8ubkiEkW<br/>
-> 📌 **Poster**: https://icml.cc/virtual/2026/poster/63904<br/>
-> 💻 **GitHub**: https://github.com/spatial-westlakenlp/ActionReward<br/>
-> ✒️ **Authors**: Yuwen Ji, Donglin Wang, Yue Zhang<br/>
-> 📧 **Contact**: Yue Zhang &lt;zhangyue@westlake.edu.cn&gt;<br/>
+## 📄 Introduction
+VeMo is a zero-shot text-to-motion evaluation framework that renders generated 3D motions into videos and uses pretrained video-language models to judge whether motions match text prompts.
+
+- The method is zero-shot: it does not require motion-specific training labels.
+- VeMo also includes an entropy-based view selection strategy to reduce information loss from 3D-to-2D rendering.
+- The accompanying benchmark is test-only and human-annotated, designed for meta-evaluation of T2M metrics.
+
+<div align="center">
+<img src="assets/framework.jpg" width="98%" alt="VeMo framework">
+</div>
+
+
+
+
 
 ## 📢 News
 - **2026/05/19** Camera-ready open-source release page prepared.
 
-## 📄 Introduction
 
-- VeMo evaluates text-to-motion alignment by rendering generated 3D motions into videos and scoring them with pretrained video-language models.
-- The method is zero-shot: it does not require motion-specific training labels.
-- VeMo also includes an entropy-based view selection strategy to reduce information loss from 3D-to-2D rendering.
-- The accompanying benchmark is test-only and human-annotated, designed for meta-evaluation of T2M metrics.
 
 ## ▶️ Demo Cases
 
