@@ -22,7 +22,7 @@
 - VeMo also includes an entropy-based view selection strategy to reduce information loss from 3D-to-2D rendering.
 - The accompanying benchmark is test-only and human-annotated, designed for meta-evaluation of T2M metrics.
 
-## 🧩 Demo Cases
+## ▶️ Demo Cases
 
 Representative cases where VeMo matches the human label while baselines do not.
 
@@ -137,7 +137,7 @@ pip install -r requirements.txt
 - Extra evaluation resources are in `./storage/eval_scores_extra`.
 - A demo motion clip is included at `./demo/demo.mp4`.
 
-## ▶️ Demo
+## 🧩 Quick Start
 
 Run VeMo on the bundled demo sample:
 
