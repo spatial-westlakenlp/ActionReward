@@ -2,9 +2,9 @@
 
 This repository hosts open-source releases for action and motion reward modeling, with a focus on evaluation methods, human-aligned assessment, and reproducible research artifacts.
 
-## 👥 Code Contributors
+## 👥 Core Contributors
 
-- [Yuwen Ji](https://github.com/)
+<!-- - [Yuwen Ji](https://github.com/2022neo) -->
 
 
 ## 📢 News
