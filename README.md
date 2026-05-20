@@ -25,7 +25,7 @@ This repository hosts open-source releases for action and motion reward modeling
 - Includes human-annotated benchmark resources for meta-evaluating T2M metrics.
 
 
-## Citation
+<!-- ## Citation
 
 ```bibtex
 @inproceedings{ji2026vemo,
@@ -35,4 +35,4 @@ This repository hosts open-source releases for action and motion reward modeling
   year={2026},
   url={https://openreview.net/forum?id=Sf8ubkiEkW}
 }
-```
+``` -->
