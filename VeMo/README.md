@@ -1,6 +1,6 @@
 <div id="top" align="center">
 
-<h2>VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models</h2>
+<h1>VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models</h1>
 
 <p>
 <a href="assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-Preprint-red" alt="Paper"></a>
@@ -10,14 +10,16 @@
 </p>
 
 <p>
-Yuwen Ji<sup>1,2</sup> &nbsp;&nbsp;
-Donglin Wang<sup>2</sup> &nbsp;&nbsp;
-Yue Zhang<sup>2 *</sup> &nbsp;&nbsp;
+<a href="https://2022neo.github.io/">Yuwen Ji</a><sup>1 2</sup>&nbsp;&nbsp;
+<a href="https://milab.westlake.edu.cn/">Donglin Wang</a><sup>2</sup>&nbsp;&nbsp;
+<a href="https://frcchang.github.io/">Yue Zhang</a><sup>2 †</sup>&nbsp;&nbsp;
 <!-- <br/> -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sup>1</sup>Zhejiang University&nbsp;&nbsp;
 <sup>2</sup>Westlake University<br/>
 </p>
+
+<sup>†</sup>Corresponding author
 
 </div>
 
