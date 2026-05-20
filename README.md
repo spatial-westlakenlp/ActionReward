@@ -16,7 +16,7 @@ This repository hosts open-source releases for action and motion reward modeling
 
 ### VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models
 
-[Docs](VeMo/README.md) · [ICML 2026 Paper](VeMo/assets/paper.pdf) 
+[Docs](VeMo/README.md) · [Paper](VeMo/assets/paper.pdf) 
 
 **Takeaways**
 
