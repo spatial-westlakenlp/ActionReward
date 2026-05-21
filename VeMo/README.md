@@ -3,7 +3,7 @@
 <h1>VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models</h1>
 
 <p>
-<a href="assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-Preprint-red" alt="Paper"></a>
+<a href="assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper"></a>
 <a href="https://icml.cc/virtual/2026/poster/63904"><img src="https://img.shields.io/badge/Poster-ICML%202026-green" alt="Poster"></a>
 <a href="https://github.com/spatial-westlakenlp/ActionReward"><img src="https://img.shields.io/badge/Code-GitHub-blue" alt="Code"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-yellow" alt="License"></a>
