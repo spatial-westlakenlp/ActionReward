@@ -194,14 +194,4 @@ python src/evaluate_system.py
 - The README paths above assume commands are run from `VeMo/`.
 - If you want to regenerate videos, inspect `./src/blender` and `./src/visualize`.
 
-<!-- <h2 align="left">Citation</h2>
 
-```bibtex
-@inproceedings{ji2026vemo,
-  title={Zero-Shot Text-to-Motion Evaluation using Video Language Models},
-  author={Ji, Yuwen and Wang, Donglin and Zhang, Yue},
-  booktitle={International Conference on Machine Learning},
-  year={2026},
-  url={https://openreview.net/forum?id=Sf8ubkiEkW}
-}
-``` -->
