@@ -5,7 +5,7 @@ This repository hosts open-source releases for action and motion reward modeling
 ## 👥 Series Contributors
 
 - VeMo: [Yuwen Ji](https://2022neo.github.io/)
-- VeMo++: [TODO]
+- VeMo++: [Zhenyu Feng](https://github.com/Fox-7th), [Wuji Qu](https://github.com/ibbbb)
 
 ## 📢 News
 
