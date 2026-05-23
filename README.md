@@ -4,9 +4,9 @@ This repository hosts open-source releases for action and motion reward modeling
 
 ## 👥 Series Contributors
 
-- VeMo: <img src="https://github.com/2022neo.png?size=40" width="20" height="20" alt="Yuwen Ji avatar"> [Yuwen Ji](https://2022neo.github.io/)
-- VeMo++: <img src="https://github.com/Fox-7th.png?size=40" width="20" height="20" alt="Zhenyu Feng avatar"> [Zhenyu Feng](https://github.com/Fox-7th), <img src="https://github.com/ibbbb.png?size=40" width="20" height="20" alt="Wuji Qu avatar"> [Wuji Qu](https://github.com/ibbbb)
-- VeMoRL: <img src="https://github.com/Huskyii24.png?size=40" width="20" height="20" alt="Zhenghao Song avatar"> [Zhenghao Song](https://github.com/Huskyii24)
+- VeMo: <img src="https://github.com/2022neo.png?size=80" width="24" height="24" style="border-radius:50%;object-fit:cover;" alt="Yuwen Ji avatar"> [Yuwen Ji](https://2022neo.github.io/)
+- VeMo++: <img src="https://github.com/Fox-7th.png?size=80" width="24" height="24" style="border-radius:50%;object-fit:cover;" alt="Zhenyu Feng avatar"> [Zhenyu Feng](https://github.com/Fox-7th), <img src="https://github.com/ibbbb.png?size=80" width="24" height="24" style="border-radius:50%;object-fit:cover;" alt="Wuji Qu avatar"> [Wuji Qu](https://github.com/ibbbb)
+- VeMoRL: <img src="https://github.com/Huskyii24.png?size=80" width="24" height="24" style="border-radius:50%;object-fit:cover;" alt="Zhenghao Song avatar"> [Zhenghao Song](https://github.com/Huskyii24)
 - VeAct: [TODO]
 
 ## 📢 News
