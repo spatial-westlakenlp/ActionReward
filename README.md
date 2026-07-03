@@ -25,3 +25,16 @@ This repository hosts open-source releases for action and motion reward modeling
 - Renders 3D motions into videos and scores alignment with pretrained video-language models.
 - Includes human-annotated benchmark resources for meta-evaluating T2M metrics.
 
+
+## 📝 Citation
+
+```
+@inproceedings{
+ji2026zeroshot,
+title={Zero-Shot Text-to-Motion Evaluation using Video Language Models},
+author={Yuwen Ji and Donglin Wang and Yue Zhang},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/pdf?id=Sf8ubkiEkW}
+}
+```
