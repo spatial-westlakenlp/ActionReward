@@ -3,7 +3,7 @@
 <h1>VeMo: Zero-Shot Text-to-Motion Evaluation using Video Language Models</h1>
 
 <p>
-<a href="assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper"></a>
+<a href="https://openreview.net/pdf?id=Sf8ubkiEkW"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper"></a>
 <a href="https://icml.cc/virtual/2026/poster/63904"><img src="https://img.shields.io/badge/Poster-ICML%202026-green" alt="Poster"></a>
 <a href="https://github.com/spatial-westlakenlp/ActionReward"><img src="https://img.shields.io/badge/Code-GitHub-blue" alt="Code"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-yellow" alt="License"></a>
@@ -194,4 +194,16 @@ python src/evaluate_system.py
 - The README paths above assume commands are run from `VeMo/`.
 - If you want to regenerate videos, inspect `./src/blender` and `./src/visualize`.
 
+<h2 align="left">🧠 Citation</h2>
+
+```
+@inproceedings{
+ji2026zeroshot,
+title={Zero-Shot Text-to-Motion Evaluation using Video Language Models},
+author={Yuwen Ji and Donglin Wang and Yue Zhang},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/pdf?id=Sf8ubkiEkW}
+}
+```
 
